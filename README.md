@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Gauravcodesbyheart
 - 👀 I’m interested in web development and cyber security
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on my coding journey
