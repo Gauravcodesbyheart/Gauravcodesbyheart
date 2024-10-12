@@ -1,3 +1,4 @@
+![logo](https://github.com/Gauravcodesbyheart/Gauravcodesbyheart/blob/main/git%20hub%20banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 
